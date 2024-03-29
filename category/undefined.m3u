@@ -6641,7 +6641,7 @@ https://837dd61e3fed471fbbe33391a57920d4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/NM2eYgs.png" group-title="Undefined",Show Türk (720p) [Not 24/7]
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Undefined",Show TV
-http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="ShraddhaTV.lk" tvg-logo="https://i.imgur.com/sZ3fEMi.png" group-title="Undefined",Shraddha TV (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC1WREaxq8LRhdOOmzSFg2pA.m3u8
 #EXTINF:-1 tvg-id="ShubhTV.in" tvg-logo="https://i.imgur.com/QHv8CL2.png" group-title="Undefined",Shubh TV (1080p)
