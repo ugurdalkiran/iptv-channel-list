@@ -5,8 +5,6 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="4Turk.fr" tvg-logo="https://i.imgur.com/nPqRAmr.png" group-title="Entertainment",4Turk
 https://divanhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",4U TV (720p)
-https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="9Volna.ru" tvg-logo="https://i.imgur.com/zmnSoBA.png" group-title="Entertainment",9 Волна (576p) [Geo-blocked]
 http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
 #EXTINF:-1 tvg-id="10Channel.gr" tvg-logo="https://i.ibb.co/0XMM4gn/download-7.png" group-title="Entertainment",10 Channel (720p)
